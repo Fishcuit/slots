@@ -1,0 +1,14 @@
+C:\cs202\sims\SlotMachineSim\bin\Debug\net9.0\SlotMachineSim.exe
+C:\cs202\sims\SlotMachineSim\bin\Debug\net9.0\SlotMachineSim.deps.json
+C:\cs202\sims\SlotMachineSim\bin\Debug\net9.0\SlotMachineSim.runtimeconfig.json
+C:\cs202\sims\SlotMachineSim\bin\Debug\net9.0\SlotMachineSim.dll
+C:\cs202\sims\SlotMachineSim\bin\Debug\net9.0\SlotMachineSim.pdb
+C:\cs202\sims\SlotMachineSim\obj\Debug\net9.0\SlotMachineSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs202\sims\SlotMachineSim\obj\Debug\net9.0\SlotMachineSim.AssemblyInfoInputs.cache
+C:\cs202\sims\SlotMachineSim\obj\Debug\net9.0\SlotMachineSim.AssemblyInfo.cs
+C:\cs202\sims\SlotMachineSim\obj\Debug\net9.0\SlotMachineSim.csproj.CoreCompileInputs.cache
+C:\cs202\sims\SlotMachineSim\obj\Debug\net9.0\SlotMachineSim.dll
+C:\cs202\sims\SlotMachineSim\obj\Debug\net9.0\refint\SlotMachineSim.dll
+C:\cs202\sims\SlotMachineSim\obj\Debug\net9.0\SlotMachineSim.pdb
+C:\cs202\sims\SlotMachineSim\obj\Debug\net9.0\SlotMachineSim.genruntimeconfig.cache
+C:\cs202\sims\SlotMachineSim\obj\Debug\net9.0\ref\SlotMachineSim.dll
